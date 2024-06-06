@@ -1,7 +1,7 @@
 # testdrive_n_rnd.np
 testdrive and rnd  related to scripting, shellservers and template compiler generaators.
 
-
+# The combination of the `lazy` module's paradigms with Nushell's functionality, extended by Rust's performance and capabilities, can create a highly powerful and #accessible framework. This approach not only leverages the strengths of each component but also ensures that the framework remains approachable for JS/TS users while # # tapping into the performance and safety offered by Rust.
 
 ### ffs
 
